@@ -5,4 +5,7 @@ print("Hello", name)
 
 print("This is my third commit!")
 
+
 print("This line was added locally.")
+print("This line was added directly on GitHub.")
+
